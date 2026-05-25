@@ -1,0 +1,5 @@
+    "class": "Invoice",
+    "invoice_number": "INV-1234",
+    "date": "2025-01-01",
+    "company": "ACME Ltd.",
+    "total_amount": 350.5

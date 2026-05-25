@@ -1,0 +1,5 @@
+    "class": "UtilityBill",
+    "bill_number": "BILL-5678",
+    "date": "2025-01-15",
+    "company": "Mepco",
+    "amount": 120.75
