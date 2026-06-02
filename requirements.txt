@@ -1,0 +1,7 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+spacy
+scikit-learn
+nltk
+PyPDF2

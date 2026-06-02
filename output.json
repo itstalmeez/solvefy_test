@@ -1,1 +1,101 @@
-{}
+{
+    "utilitybill_1.pdf": {
+        "class": "Utility Bill",
+        "account_number": "Number",
+        "usage_kwh": "406",
+        "amount_due": null
+    },
+    "other_1.pdf": {
+        "class": "Other"
+    },
+    "other_3.pdf": {
+        "class": "Other"
+    },
+    "invoice_5.pdf": {
+        "class": "Invoice",
+        "invoice_number": null,
+        "date": "2025-06-10",
+        "total_amount": "1005"
+    },
+    "resume_3.pdf": {
+        "class": "Resume",
+        "email": "ali.khan@example.com",
+        "phone": "+1-555-980-6266 ",
+        "experience_years": "4"
+    },
+    "utilitybill_2.pdf": {
+        "class": "Utility Bill",
+        "account_number": "Number",
+        "usage_kwh": "855",
+        "amount_due": null
+    },
+    "resume_2.pdf": {
+        "class": "Resume",
+        "email": "jane.smith@example.com",
+        "phone": "+1-555-486-5877 ",
+        "experience_years": "1"
+    },
+    "utilitybill_5.pdf": {
+        "class": "Utility Bill",
+        "account_number": "Number",
+        "usage_kwh": "871",
+        "amount_due": null
+    },
+    "invoice_1.pdf": {
+        "class": "Invoice",
+        "invoice_number": null,
+        "date": "2025-06-16",
+        "total_amount": "1001"
+    },
+    "utilitybill_3.pdf": {
+        "class": "Utility Bill",
+        "account_number": "Number",
+        "usage_kwh": "558",
+        "amount_due": null
+    },
+    "other_2.pdf": {
+        "class": "Other"
+    },
+    "utilitybill_4.pdf": {
+        "class": "Utility Bill",
+        "account_number": "Number",
+        "usage_kwh": "384",
+        "amount_due": null
+    },
+    "invoice_3.pdf": {
+        "class": "Invoice",
+        "invoice_number": null,
+        "date": "2025-06-24",
+        "total_amount": "1003"
+    },
+    "resume_4.pdf": {
+        "class": "Resume",
+        "email": "maria.garcia@example.com",
+        "phone": "+1-555-233-1405 ",
+        "experience_years": "1"
+    },
+    "invoice_2.pdf": {
+        "class": "Invoice",
+        "invoice_number": null,
+        "date": "2025-03-25",
+        "total_amount": "1002"
+    },
+    "resume_5.pdf": {
+        "class": "Resume",
+        "email": "david.lee@example.com",
+        "phone": "+1-555-305-2284 ",
+        "experience_years": "2"
+    },
+    "resume_1.pdf": {
+        "class": "Resume",
+        "email": "john.doe@example.com",
+        "phone": "+1-555-799-6125 ",
+        "experience_years": "5"
+    },
+    "invoice_4.pdf": {
+        "class": "Invoice",
+        "invoice_number": null,
+        "date": "2025-03-26",
+        "total_amount": "1004"
+    }
+}

@@ -12,7 +12,7 @@ from sentence_transformers import SentenceTransformer
 # =========================
 # CONFIG
 # =========================
-DATA_FOLDER = "data"
+DATA_FOLDER = "dataset"
 OUTPUT_FILE = "output.json"
 
 
